@@ -1,5 +1,5 @@
 ## 👋 Hello!
-My name is Trevor Olson and I have been an engineer at SportsIT/Dash/DaySmart Recreation. I enjoy working as a full stack dev.
+My name is Trevor Olson and I enjoy problem solving 
 
 
 
